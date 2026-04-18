@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  I build products that feel sharp, responsive, and a little bit unexpected.
+  I build products that feel sharp, responsive, and a bit unexpected.
 </p>
 
 <p align="center">
@@ -17,14 +17,12 @@
 </p>
 
 ## About
-
-<strong>Open the console</strong>
 <br>
 
-name      : MaxasOP
-mode      : building interactive, high-contrast experiences
-focus     : frontend polish, systems thinking, and practical tooling
-principle : UniqueNESS
+- Name      : Manas
+- Mode      : building interactive, high-contrast experiences
+- Focus     : frontend polish, systems thinking, and practical tooling
+- Principle : UniqueNESS
 
 
 ## Signal
@@ -38,7 +36,7 @@ principle : UniqueNESS
 - Interfaces with motion and personality
 - Systems that stay understandable under pressure
 - Tools that reduce friction instead of adding it
-- Code that is intentional, not decorative
+- Not flashy, not trendy—yet timeless
 
 </td>
 <td width="50%">
@@ -46,9 +44,11 @@ principle : UniqueNESS
 ### What I value
 
 - Clarity over noise
-- Structure over trend-chasing
+- Structure over trend-chasing           
 - Performance with restraint
 - Craft that holds up over time
+- Exact, not extra
+
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ principle : UniqueNESS
 
 ## Stack
 
-<strong>Show the toolkit</strong>
+<strong>Toolkit</strong>
 <br>
 
 - Frontend: React, Vue, HTML, CSS, interactive UI patterns

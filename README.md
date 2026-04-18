@@ -2,7 +2,6 @@
 
 ![MaxasOP orbital field](assets/hero-orbit.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaxasOP&label=PROFILE+VIEWS&color=0B1020&style=for-the-badge)
 
 </div>
 

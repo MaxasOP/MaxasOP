@@ -34,17 +34,6 @@ principle : make it feel fast, clear, and memorable
 
 </details>
 
-<details>
-<summary><strong>Why this profile looks different</strong></summary>
-<br>
-
-- It uses animated SVG banners instead of a static header.
-- It keeps the story short and lets the layout do the talking.
-- It gives you interactive sections you can expand and collapse.
-- It stays readable on GitHub without relying on custom scripts.
-
-</details>
-
 ## Signal
 
 <table>

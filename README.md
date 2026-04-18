@@ -18,8 +18,7 @@
 
 ## About
 
-<details open>
-<summary><strong>Open the console</strong></summary>
+<strong>Open the console</strong>
 <br>
 
 ```text
@@ -29,7 +28,6 @@ focus     : frontend polish, systems thinking, and practical tooling
 principle : make it feel fast, clear, and memorable
 ```
 
-</details>
 
 ## Signal
 
@@ -60,8 +58,7 @@ principle : make it feel fast, clear, and memorable
 
 ## Stack
 
-<details>
-<summary><strong>Show the toolkit</strong></summary>
+<strong>Show the toolkit</strong>
 <br>
 
 - Frontend: React, Vue, HTML, CSS, interactive UI patterns
@@ -70,10 +67,7 @@ principle : make it feel fast, clear, and memorable
 - Systems: architecture, automation, cloud, performance
 - Interests: finance, algorithms, data analysis
 
-</details>
-
-<details>
-<summary><strong>What I'm exploring now</strong></summary>
+<strong>What I'm exploring now</strong>
 <br>
 
 - More expressive UI systems
@@ -81,7 +75,6 @@ principle : make it feel fast, clear, and memorable
 - Faster, leaner animation patterns
 - Financial and data-heavy applications
 
-</details>
 
 ## Live Stats
 

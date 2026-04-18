@@ -1,121 +1,129 @@
-# 🎬 MaxasOP | A Frame-by-Frame Developer
-
-> *"All good films are subversive if you dig below the surface." — Luis Buñuel*
-> 
-> Just like cinema, code tells stories. I craft them line by line, with precision and purpose.
-
----
-
-## 🎥 About Me
-
-A **patient observer** who sees patterns where others see chaos. I approach problems like a cinematographer approaches a scene—every detail matters, every angle tells a story. 
-
-I'm deeply fascinated by how systems work. While most people watch movies for entertainment, I study them for structure, narrative technique, and hidden meaning. That same philosophy drives my coding: *going beyond the surface, questioning conventions, building things that matter*.
-
-**Core Philosophy:** Break the mold. Master the craft. Code with intention.
-
----
-
-## 💻 Technical Arsenal
-
-```
-🌍 Full-Stack Development
-   ├─ Backend: Python | JavaScript | C++
-   ├─ Frontend: React | Vue | HTML/CSS
-   └─ Databases: SQL | MongoDB | Firebase
-
-💰 Finance & Commerce
-   ├─ Financial Data Analysis
-   ├─ Trading Systems & Algorithms
-   └─ Payment & Commerce Solutions
-
-🔧 Technical Expertise
-   ├─ System Design & Architecture
-   ├─ Cloud Platforms (AWS, GCP)
-   ├─ DevOps & Automation
-   └─ Data Science & ML Fundamentals
-```
-
----
-
-## 🎯 What Drives Me
-
-| What | Why |
-|------|-----|
-| **Depth over Breadth** | I'd rather master one skill deeply than know ten superficially |
-| **Pattern Recognition** | Years of analysis taught me to see structure everywhere |
-| **Non-Conformity** | The best solutions come from questioning the standard path |
-| **Versatility** | Like a great director wearing many hats—coding, finance, strategy |
-| **Excellence** | If it's worth doing, it's worth doing extraordinarily |
-
----
-
-## 🚀 Current Focus
-
-- 🔭 **Building**: High-performance systems that solve real problems
-- 🌱 **Mastering**: Advanced algorithms, system design, and architecture patterns
-- 🎓 **Studying**: Market dynamics, financial systems, and emerging tech
-- 🤝 **Collaborating**: On projects that push boundaries and challenge the status quo
-
----
-
-## 📽️ Philosophy in Code
-
-```python
-def my_approach(problem):
-    """
-    Every problem is a scene to be composed.
-    Every solution is a narrative arc.
-    """
-    return {
-        "observe": "Study the problem from every angle",
-        "question": "Challenge assumptions that feel safe",
-        "design": "Create elegant solutions, not quick fixes",
-        "execute": "With precision and purpose",
-        "iterate": "Like editing—crafting until perfection"
-    }
-```
-
----
-
-## 🎞️ Cinematic Inspiration
-
-> *"The eye should travel through the picture, as the eye travels through life."* 
-> — Orson Welles
-
-Just as great filmmakers guide the viewer's eye and mind, I write code that's intuitive, purposeful, and elegant. Every variable name matters. Every function has a reason. Every architecture decision is deliberate.
-
----
-
-## 📊 GitHub Stats & More
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaxasOP&color=blueviolet)
+![MaxasOP banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:0EA5E9&height=260&section=header&text=MaxasOP&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=Interactive%20systems%20%7C%20sharp%20interfaces%20%7C%20deliberate%20motion&descAlignY=55&descSize=18)
 
-Looking for collaborators on **groundbreaking projects**. If you're building something that matters—let's talk.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=5EEAD4&center=true&vCenter=true&width=900&lines=Builds+special+things+for+the+web;Turns+ideas+into+clean+systems;Likes+clarity%2C+motion%2C+and+craft)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MaxasOP&label=PROFILE+VIEWS&color=0B1020&style=for-the-badge)
 
 </div>
 
----
+<p align="center">
+  I build products that feel sharp, responsive, and a little bit unexpected.
+</p>
 
-## 📬 Let's Connect
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#signal">Signal</a> ·
+  <a href="#stack">Stack</a> ·
+  <a href="#connect">Connect</a>
+</p>
 
-I believe in *meaningful collaboration*. If your project shares my philosophy—rigor, innovation, excellence—reach out.
+## About
 
-- 📧 **Email**: [manaschauhan.ms@gmail.com]
-- 💼 **LinkedIn**: [Manas Chauhan]
-- 🐦 **Twitter**: [@Maxas0P]
-- 🌐 **Portfolio**: [Your Website]
+<details open>
+<summary><strong>Open the console</strong></summary>
+<br>
 
----
+```text
+name      : MaxasOP
+mode      : building interactive, high-contrast experiences
+focus     : frontend polish, systems thinking, and practical tooling
+principle : make it feel fast, clear, and memorable
+```
 
-## ✨ The Signature
+</details>
 
-> *"The task of the excellent teacher is to stimulate 'apparently ordinary' people to unusual effort. The tough problem is not in identifying winners: it is in making winners out of ordinary people."* 
-> 
-> — K. Patricia Cross
+<details>
+<summary><strong>Why this profile looks different</strong></summary>
+<br>
 
-I don't just code. I evolve. I observe. I craft. I **create things that matter**.
+- It uses animated SVG banners instead of a static header.
+- It keeps the story short and lets the layout do the talking.
+- It gives you interactive sections you can expand and collapse.
+- It stays readable on GitHub without relying on custom scripts.
 
-**Status**: Always learning. Always building. Always different. 🎬✨
+</details>
+
+## Signal
+
+<table>
+<tr>
+<td width="50%">
+
+### What I build
+
+- Interfaces with motion and personality
+- Systems that stay understandable under pressure
+- Tools that reduce friction instead of adding it
+- Code that is intentional, not decorative
+
+</td>
+<td width="50%">
+
+### What I value
+
+- Clarity over noise
+- Structure over trend-chasing
+- Performance with restraint
+- Craft that holds up over time
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+<details>
+<summary><strong>Show the toolkit</strong></summary>
+<br>
+
+- Frontend: React, Vue, HTML, CSS, interactive UI patterns
+- Backend: Python, JavaScript, C++
+- Data: SQL, MongoDB, Firebase
+- Systems: architecture, automation, cloud, performance
+- Interests: finance, algorithms, data analysis
+
+</details>
+
+<details>
+<summary><strong>What I'm exploring now</strong></summary>
+<br>
+
+- More expressive UI systems
+- Better developer tooling
+- Faster, leaner animation patterns
+- Financial and data-heavy applications
+
+</details>
+
+## Live Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MaxasOP&show_icons=true&hide_border=true&count_private=true&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=MaxasOP&hide_border=true&background=0B1020&stroke=1F2937&ring=38BDF8&fire=F59E0B&currStreakLabel=5EEAD4&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxasOP&layout=compact&hide_border=true&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&langs_count=8" alt="Top Languages" />
+
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:manaschauhan.ms@gmail.com"><img src="https://img.shields.io/badge/email-0B1020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/MaxasOP"><img src="https://img.shields.io/badge/github-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/Maxas0P"><img src="https://img.shields.io/badge/x-0B1020?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
+
+</div>
+
+<div align="center">
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0B1020&height=120&section=footer)
+
+</div>

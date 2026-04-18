@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  I build products that feel sharp, responsive, and a little bit unexpected.
+  I build products that feel sharp, responsive, and a bit unexpected.
 </p>
 
 <p align="center">
@@ -17,19 +17,13 @@
 </p>
 
 ## About
-
-<details open>
-<summary><strong>Open the console</strong></summary>
 <br>
 
-```text
-name      : MaxasOP
-mode      : building interactive, high-contrast experiences
-focus     : frontend polish, systems thinking, and practical tooling
-principle : make it feel fast, clear, and memorable
-```
+- Name      : Manas
+- Mode      : building interactive, high-contrast experiences
+- Focus     : frontend polish, systems thinking, and practical tooling
+- Principle : UniqueNESS
 
-</details>
 
 ## Signal
 
@@ -42,7 +36,7 @@ principle : make it feel fast, clear, and memorable
 - Interfaces with motion and personality
 - Systems that stay understandable under pressure
 - Tools that reduce friction instead of adding it
-- Code that is intentional, not decorative
+- Not flashy, not trendy—yet timeless
 
 </td>
 <td width="50%">
@@ -50,9 +44,11 @@ principle : make it feel fast, clear, and memorable
 ### What I value
 
 - Clarity over noise
-- Structure over trend-chasing
+- Structure over trend-chasing           
 - Performance with restraint
 - Craft that holds up over time
+- Exact, not extra
+
 
 </td>
 </tr>
@@ -60,8 +56,7 @@ principle : make it feel fast, clear, and memorable
 
 ## Stack
 
-<details>
-<summary><strong>Show the toolkit</strong></summary>
+<strong>Toolkit</strong>
 <br>
 
 - Frontend: React, Vue, HTML, CSS, interactive UI patterns
@@ -70,10 +65,7 @@ principle : make it feel fast, clear, and memorable
 - Systems: architecture, automation, cloud, performance
 - Interests: finance, algorithms, data analysis
 
-</details>
-
-<details>
-<summary><strong>What I'm exploring now</strong></summary>
+<strong>What I'm exploring now</strong>
 <br>
 
 - More expressive UI systems
@@ -81,7 +73,6 @@ principle : make it feel fast, clear, and memorable
 - Faster, leaner animation patterns
 - Financial and data-heavy applications
 
-</details>
 
 ## Live Stats
 

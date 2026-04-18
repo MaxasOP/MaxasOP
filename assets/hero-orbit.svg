@@ -145,21 +145,5 @@
 
   <text x="1050" y="152" fill="#e2e8f0" font-size="60" font-family="Verdana, Arial, sans-serif" font-weight="700">MaxasOP</text>
 
-  <g transform="translate(1050 286)">
-    <rect width="118" height="30" rx="15" fill="#0f172a" fill-opacity=".92" stroke="#38bdf8" stroke-opacity=".35" />
-    <circle cx="18" cy="15" r="4" fill="#5eead4">
-      <animate attributeName="r" values="3;5;3" dur="2.4s" repeatCount="indefinite" />
-    </circle>
-    <text x="33" y="20" fill="#e2e8f0" font-size="13" font-family="Verdana, Arial, sans-serif">signal live</text>
-  </g>
 
-  <g transform="translate(1184 286)">
-    <rect width="154" height="30" rx="15" fill="#0f172a" fill-opacity=".92" stroke="#f59e0b" stroke-opacity=".28" />
-    <text x="17" y="20" fill="#e2e8f0" font-size="13" font-family="Verdana, Arial, sans-serif">motion with intent</text>
-  </g>
-
-  <g transform="translate(1360 286)">
-    <rect width="132" height="30" rx="15" fill="#0f172a" fill-opacity=".92" stroke="#5eead4" stroke-opacity=".28" />
-    <text x="17" y="20" fill="#e2e8f0" font-size="13" font-family="Verdana, Arial, sans-serif">readable + sharp</text>
-  </g>
 </svg>

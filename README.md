@@ -21,12 +21,10 @@
 <strong>Open the console</strong>
 <br>
 
-```text
 name      : MaxasOP
 mode      : building interactive, high-contrast experiences
 focus     : frontend polish, systems thinking, and practical tooling
-principle : make it feel fast, clear, and memorable
-```
+principle : UniqueNESS
 
 
 ## Signal

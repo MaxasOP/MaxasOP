@@ -4,8 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=5EEAD4&center=true&vCenter=true&width=900&lines=Builds+special+things+for+the+web;Turns+ideas+into+clean+systems;Likes+clarity%2C+motion%2C+and+craft)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaxasOP&label=PROFILE+VIEWS&color=0B1020&style=for-the-badge)
-
 </div>
 
 <p align="center">

@@ -139,10 +139,6 @@
       <circle cx="214" cy="108" r="2.3" fill="#e2e8f0" />
     </g>
   </g>
-
-  <rect x="1010" y="76" width="510" height="288" rx="28" fill="#08101d" fill-opacity=".58" stroke="#2a4a68" stroke-opacity=".42" />
-  <rect x="1010" y="76" width="510" height="288" rx="28" fill="url(#scanlines)" opacity=".16" />
-
   <text x="1050" y="152" fill="#e2e8f0" font-size="60" font-family="Verdana, Arial, sans-serif" font-weight="700">MaxasOP</text>
 
 

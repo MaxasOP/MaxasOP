@@ -59,7 +59,7 @@
 <strong>Toolkit</strong>
 <br>
 
-- Frontend: React, Vue, HTML, CSS, interactive UI patterns
+- Frontend: React, HTML, CSS, interactive UI patterns
 - Backend: Python, JavaScript, C++
 - Data: SQL, MongoDB, Firebase
 - Systems: architecture, automation, cloud, performance

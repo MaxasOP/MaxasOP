@@ -144,9 +144,6 @@
   <rect x="1010" y="76" width="510" height="288" rx="28" fill="url(#scanlines)" opacity=".16" />
 
   <text x="1050" y="152" fill="#e2e8f0" font-size="60" font-family="Verdana, Arial, sans-serif" font-weight="700">MaxasOP</text>
-  <text x="1052" y="192" fill="#5eead4" font-size="20" font-family="Verdana, Arial, sans-serif">interactive systems / uncommon motion / deliberate craft</text>
-  <text x="1052" y="228" fill="#94a3b8" font-size="14" font-family="Verdana, Arial, sans-serif">not a wave, not a gradient, not a stock pattern</text>
-  <text x="1052" y="256" fill="#cbd5e1" font-size="14" font-family="Verdana, Arial, sans-serif">built as an orbital field with contour lines, pulses, and scanlight</text>
 
   <g transform="translate(1050 286)">
     <rect width="118" height="30" rx="15" fill="#0f172a" fill-opacity=".92" stroke="#38bdf8" stroke-opacity=".35" />

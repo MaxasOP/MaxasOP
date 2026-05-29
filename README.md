@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  I build products that feel sharp, responsive, and a bit unexpected.
+  I build products that feel sharp, responsive, and whimsical.
 </p>
 
 <p align="center">

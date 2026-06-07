@@ -55,22 +55,22 @@
 
 <h3>Frontend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </a>
 
 <h3>Backend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,django,cpp" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,django,cpp,tensorflow" />
 </a>
 
 <h3>Data</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis,supabase,cloudfare" />
 </a>
 
 <h3>Systems & Tools</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel,postman" />
 </a>
 
 <br>

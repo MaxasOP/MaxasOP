@@ -17,7 +17,6 @@
 </p>
 
 ## About
-<br>
 
 - Name      : Manas
 - Mode      : building interactive, high-contrast experiences
@@ -31,24 +30,22 @@
 <tr>
 <td width="50%">
 
-<h3>What I build</h3>
+<h3>Technical Approach</h3>
 
-- Interfaces with motion and personality
-- Systems that stay understandable under pressure
-- Tools that reduce friction instead of adding it
-- Not flashy, not trendy—yet timeless
+- <strong>Scalability:</strong> Designing robust systems that handle growth smoothly
+- <strong>Performance:</strong> Optimizing for Core Web Vitals and low latency
+- <strong>Architecture:</strong> Building clean, type-safe, and maintainable codebases
+- <strong>Automation:</strong> Streamlining workflows with CI/CD and Docker
 
 </td>
 <td width="50%">
 
-<h3>What I value</h3>
+<h3>Product Mindset</h3>
 
-- Clarity over noise
-- Structure over trend-chasing
-- Performance with restraint
-- Craft that holds up over time
-- Exact, not extra
-
+- <strong>User-Centric:</strong> Creating intuitive, accessible, and inclusive interfaces
+- <strong>Rich Interactions:</strong> Leveraging ThreeJS and animations for engaging UX
+- <strong>Iterative Delivery:</strong> Adapting to feedback quickly using Agile methodologies
+- <strong>Pragmatism:</strong> Choosing the right tool for the exact problem, minimizing overhead
 
 </td>
 </tr>
@@ -88,7 +85,7 @@
 - Financial and data-heavy applications
 
 
-<h3>Live Stats</h3>
+### Live Stats
 
 <div align="center">
 

@@ -31,7 +31,7 @@
 <tr>
 <td width="50%">
 
-# What I build
+<h3>What I build</h3>
 
 - Interfaces with motion and personality
 - Systems that stay understandable under pressure
@@ -41,10 +41,10 @@
 </td>
 <td width="50%">
 
-# What I value
+<h3>What I value</h3>
 
 - Clarity over noise
-- Structure over trend-chasing           
+- Structure over trend-chasing
 - Performance with restraint
 - Craft that holds up over time
 - Exact, not extra
@@ -56,29 +56,30 @@
 
 ## Stack
 
-# Frontend
+<h3>Frontend</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,threejs" />
 </a>
 
-# Backend
+<h3>Backend</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,django,cpp" />
 </a>
 
-# Data
+<h3>Data</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis" />
 </a>
 
-# Systems & Tools
+<h3>Systems & Tools</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel,postman,linux" />
 </a>
 
 <br>
 
-<strong>What I'm exploring now</strong>
+
+<h3>What I'm exploring now</h3>
 <br>
 
 - More expressive UI systems
@@ -87,11 +88,11 @@
 - Financial and data-heavy applications
 
 
-## Live Stats
+<h3>Live Stats</h3>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MaxasOP&show_icons=true&hide_border=true&count_private=true&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MaxasOP&show_icons=true&hide_border=true&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" />
 <img height="180" src="https://streak-stats.demolab.com?user=MaxasOP&hide_border=true&background=0B1020&stroke=1F2937&ring=38BDF8&fire=F59E0B&currStreakLabel=5EEAD4&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub Streak Stats" />
 
 </div>

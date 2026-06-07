@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](image.png)
+![MaxasOP orbital field](assets/hero-orbit.svg)
 
 
 </div>

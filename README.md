@@ -1,6 +1,6 @@
 <div align="center">
 
-![MaxasOP orbital field](assets/hero-orbit.svg)
+![alt text](image.png)
 
 
 </div>
@@ -56,14 +56,27 @@
 
 ## Stack
 
-<strong>Toolkit</strong>
-<br>
+### Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,threejs" />
+</a>
 
-- Frontend: React, HTML, CSS, interactive UI patterns
-- Backend: Python, JavaScript, C++
-- Data: SQL, MongoDB, Firebase
-- Systems: architecture, automation, cloud, performance
-- Interests: finance, algorithms, data analysis
+### Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,django,cpp" />
+</a>
+
+### Data
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis" />
+</a>
+
+### Systems & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel,postman,linux" />
+</a>
+
+<br>
 
 <strong>What I'm exploring now</strong>
 <br>

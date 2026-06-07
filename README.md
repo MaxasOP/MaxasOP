@@ -100,8 +100,8 @@
 
 <div align="center">
 
-<a href="mailto:manaschauhan.ms@gmail.com"><img src="https://img.shields.io/badge/email-0B1020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/MaxasOP"><img src="https://img.shields.io/badge/github-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:manaschauhan.ms@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
 
 
 </div>

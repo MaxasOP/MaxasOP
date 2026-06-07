@@ -1,6 +1,6 @@
 <div align="center">
 
-![MaxasOP orbital field](assets/hero-orbit.svg)
+![alt text](image.png)
 
 
 </div>
@@ -31,7 +31,7 @@
 <tr>
 <td width="50%">
 
-### What I build
+# What I build
 
 - Interfaces with motion and personality
 - Systems that stay understandable under pressure
@@ -41,7 +41,7 @@
 </td>
 <td width="50%">
 
-### What I value
+# What I value
 
 - Clarity over noise
 - Structure over trend-chasing           
@@ -56,22 +56,22 @@
 
 ## Stack
 
-### Frontend
+# Frontend
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,threejs" />
 </a>
 
-### Backend
+# Backend
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,django,cpp" />
 </a>
 
-### Data
+# Data
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis" />
 </a>
 
-### Systems & Tools
+# Systems & Tools
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel,postman,linux" />
 </a>

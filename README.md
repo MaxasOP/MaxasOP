@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](image.png)
+![alt text](image2.png)
 
 
 </div>
@@ -89,16 +89,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MaxasOP&show_icons=true&hide_border=true&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=MaxasOP&hide_border=true&background=0B1020&stroke=1F2937&ring=38BDF8&fire=F59E0B&currStreakLabel=5EEAD4&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub Streak Stats" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=MaxasOP&hide_border=true&background=0B1020&stroke=1F2937&ring=38BDF8&fire=F59E0B&currStreakLabel=5EEAD4&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak Stats" />
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxasOP&layout=compact&hide_border=true&bg_color=0B1020&title_color=5EEAD4&text_color=E2E8F0&langs_count=8" alt="Top Languages" />
-
-</div>
 
 ## Connect
 

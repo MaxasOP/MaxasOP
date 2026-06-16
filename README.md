@@ -55,12 +55,12 @@
 
 <h3>Frontend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs," />
 </a>
 
 <h3>Backend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,django,cpp,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,django,flask,cpp,tensorflow,nextjs" />
 </a>
 
 <h3>Data</h3>

@@ -1,7 +1,6 @@
 <div align="center">
 
-![alt text](image-1.png)
-
+<img src="image-1.png" width="50%" alt="alt text" />
 
 </div>
 

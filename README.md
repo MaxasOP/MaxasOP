@@ -54,22 +54,27 @@
 
 <h3>Frontend</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs," />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" />
 </a>
 
-<h3>Backend</h3>
+<h3>Backend & APIs</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,django,flask,cpp,tensorflow,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,cpp" />
 </a>
 
-<h3>Data</h3>
+<h3>Mobile Development</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis,supabase,cloudfare" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </a>
 
-<h3>Systems & Tools</h3>
+<h3>Data & AI / ML</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,py,tensorflow" />
+</a>
+
+<h3>Cloud, DevOps & Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel" />
 </a>
 
 <br>
